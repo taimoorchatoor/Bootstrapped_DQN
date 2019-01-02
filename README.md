@@ -4,7 +4,7 @@ Implementation of Bootstrapped DQN (https://arxiv.org/pdf/1602.04621.pdf)
 
 To run this code ensure that you have numpy, gym, tensorflow, sklearn, pandas and matplotlib.pyplot installed. 
 
-This repository contains 3 files.
+This repository contains 2 files.
 
 1. Simple_Version_CartPole.ipynb:
 This is a simple version of our project that only has 2 fully connected layers. It is only for the purpose of running CartPole which is the simplest possible environment on Atari Gym. 
